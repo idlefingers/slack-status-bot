@@ -1,0 +1,13 @@
+{
+  "name": "slack-status-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Damien Timewell",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "slack": "^8.2.7"
+  }
+}
